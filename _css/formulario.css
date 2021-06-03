@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/*Formatação de formulário*/
+	input{
+		width: calc(100% - 20px);
+		padding: 10px;
+	}
+	textarea{
+		width: calc(100% - 20px);
+		padding: 10px;
+	}
+	.container{
+		width: 600px;
+		margin: 0 auto;
+	}
+	h4{
+		text-align: center;
+	}
+	#botao{
+		text-align: center;
+	}
+	.btn_enviar{
+		width: 200px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: #FCC302;
+    font-size: 18px;
+	}
