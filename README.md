@@ -1,4 +1,4 @@
-<p align="center"><font size="6" face="Georgia">
+<p align="center"><font size="7" face="Georgia">
     User-registration-PHP
 </font></p>
 
