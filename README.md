@@ -1,6 +1,6 @@
-<p align="center"><font size="7">
+<h1 align="center"><font face="Georgia">
     User-registration-PHP
-</font></p>
+</h1>
 
 <p align="center">
   <a href="#-tecnology">Tecnology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
